@@ -1,1 +1,1 @@
-web: gunicorn bb-plotly-dashboard.app:app
+web: gunicorn app:app
